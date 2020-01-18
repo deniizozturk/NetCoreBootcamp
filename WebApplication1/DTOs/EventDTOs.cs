@@ -23,7 +23,6 @@ namespace WebApplication1.DTOs
         [Required]
         public Guid Id { get; set; }
     }
-
     public class EventGetDto
     {
         public Guid Id { get; set; }
